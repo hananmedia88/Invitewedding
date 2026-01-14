@@ -1,0 +1,8 @@
+{
+  "name": "Copy of NikahYuk - Digital Wedding Invitations",
+  "description": "A sophisticated digital wedding invitation builder featuring AI-powered romantic story generation, RSVP management, and elegant mobile-responsive designs.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
